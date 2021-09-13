@@ -1,8 +1,5 @@
-package com.ghaurisanker.tenpinbowling;
+package com.bt.bowling;
 
-/**
- * @author Mohamed-Zakaria SAIDANE
- */
 public class BowlingThrow {
     private char pin;
     private BowlingThrow previousBowlingThrow;
