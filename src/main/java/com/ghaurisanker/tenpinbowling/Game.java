@@ -1,13 +1,10 @@
-package com.ghaurisanker.tenpinbowling;
+package com.bt.bowling;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author Mohamed-Zakaria SAIDANE
- */
 public class Game {
     private Map<Integer, List<BowlingThrow>> bowlingFrames;
 
