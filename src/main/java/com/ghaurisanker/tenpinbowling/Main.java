@@ -1,10 +1,7 @@
-package com.ghaurisanker.tenpinbowling;
+package com.bt.bowling;
 
 import java.util.Scanner;
 
-/**
- * @author Mohamed-Zakaria SAIDANE
- */
 public class Main {
 
     public static void main(String[] args) {
